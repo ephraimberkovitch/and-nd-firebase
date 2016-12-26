@@ -12,3 +12,6 @@ Setup requires creating a Firebase project. See https://firebase.google.com/ for
 
 ## License
 See [LICENSE](LICENSE)
+
+Get SHA1: keytool -exportcert -list -v -alias androiddebugkey -keystore ~/.android/debug.keystore
+
